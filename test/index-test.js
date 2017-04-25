@@ -1,3 +1,5 @@
+'use strict';
+
 describe('index', function() {
   describe('`countdown` function', function () {
     before(function() {
